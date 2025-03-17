@@ -49,3 +49,6 @@
   </svg>
   シェア
 </button>
+<div>
+  {navigator.userAgent}
+</div>
